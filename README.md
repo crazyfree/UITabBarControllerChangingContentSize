@@ -25,6 +25,9 @@ All you need is, changing UITransitionView size after UITabBarControlelr finishe
 }
 
 ```
+### Trouble?
+Create an issue or email to me at: vuongvankhanh89@gmail.com
 
 ### License
 MIT of course!
+
